@@ -1,0 +1,1 @@
+Java application for reading .pal files for Star Wars Galaxies and writing to readable text files. Run the main method from an IDE and follow the prompts in the console output to read, write, or alter palettes and text files.
